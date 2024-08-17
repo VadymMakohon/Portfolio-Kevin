@@ -20,3 +20,8 @@ The website is designed to be compatible with all mobile devices, providing a be
 
 ## Preview: ![preview2](https://github.com/user-attachments/assets/217427ef-7db0-466b-b54f-0e9151946c68) ![preview](https://github.com/user-attachments/assets/8ddf5525-85ce-4f09-a2ce-26a456e6811b)
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
