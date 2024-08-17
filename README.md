@@ -17,3 +17,6 @@ Reach out to me easily through the Contact section, which includes a feature to 
 
 Responsive Design:
 The website is designed to be compatible with all mobile devices, providing a beautiful and user-friendly interface.
+
+## Preview: ![preview2](https://github.com/user-attachments/assets/217427ef-7db0-466b-b54f-0e9151946c68) ![preview](https://github.com/user-attachments/assets/8ddf5525-85ce-4f09-a2ce-26a456e6811b)
+
