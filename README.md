@@ -20,6 +20,14 @@ The website is designed to be compatible with all mobile devices, providing a be
 
 ## Preview: ![preview2](https://github.com/user-attachments/assets/217427ef-7db0-466b-b54f-0e9151946c68) <br>![preview](https://github.com/user-attachments/assets/8ddf5525-85ce-4f09-a2ce-26a456e6811b)
 
+## Github repo
+
+This is the [link](https://github.com/VadymMakohon/Portfolio-Kevin) to the Github repo of the project
+
+## Sample Website
+
+A live demo is already available via this [link](https://vadymmakohon.github.io/Portfolio-Kevin/)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
