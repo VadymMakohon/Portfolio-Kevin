@@ -28,8 +28,11 @@ This is the [link](https://github.com/VadymMakohon/Portfolio-Kevin) to the Githu
 
 A live demo is already available via this [link](https://vadymmakohon.github.io/Portfolio-Kevin/)
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📜 License
+This repository is for educational purposes only and has an MIT License
+
+### Show your support
+Give a ⭐ if you like this website!
 
 # Contributors
 - [Vadym Makohon](https://github.com/VadymMakohon)
